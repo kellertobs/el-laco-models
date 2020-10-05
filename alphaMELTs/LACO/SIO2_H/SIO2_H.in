@@ -1,0 +1,20 @@
+Title:  SIO2_H
+Initial Composition: SiO2 61.67
+Initial Composition: TiO2 0.77
+Initial Composition: Al2O3 16.16
+Initial Composition: Fe2O3 2.56
+Initial Composition: FeO 2.82
+Initial Composition: MgO 1.87
+Initial Composition: CaO 5.06
+Initial Composition: Na2O 3.22
+Initial Composition: K2O 2.71
+Initial Composition: P2O5 0.17
+Initial Composition: H2O 3.00
+Initial Temperature: 1050.0
+Initial Pressure: 1250
+Log FO2 Path: none
+Suppress: biotite
+Suppress: amphibole
+Limit coexisting: feldspar 1
+Limit coexisting: orthopyroxene 1
+Limit coexisting: clinopyroxene 1

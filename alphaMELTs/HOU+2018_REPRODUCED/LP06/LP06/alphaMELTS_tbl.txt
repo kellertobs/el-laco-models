@@ -1,0 +1,51 @@
+Title:  LP06
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1010.00 100.000001 0.9590414238896050 0.600882 278.040822 -1024514.088811 59.084781 -23861.688988 30455.041867 142.652325 -7.489 -7.489 2.701297 0.173687 5.029 1 0.000
+
+Title:  LP06
+
+Liquid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 95.904143 48.1314 2.34609 6.61077 16.7042 15.7449 0.542208 2.30438 1.34509 2.81531 1.56406 1.89162
+Title:  LP06
+
+liquid_0 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 54.909867 147.742146 -731528.931151 24.996345 74.325223 5.029 72.1081 1.58294 11.5261 0.420186 0.416885 0.415934 2.09314 2.21365 4.91561 1.10964 3.19775 64.0
+
+liquid_1 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 1.982879 4.183889 -24450.096074 0.692948 3.673622 -2.654 1.08915 0.372896 0.0414671 0.479159 0.000675204 1.26314 52.2624 0.000129955 0.03706 44.0837 0.370212 100.0
+
+liquid_2 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 39.011398 84.614254 -221118.768190 9.813703 51.948637 -0.894 16.7744 3.52056 0.02611 40.4491 38.1198 0.6833 0.0624378 0.190928 0.000281242 0.0424818 0.130523 3.1
+
+water thermodynamic data and composition:
+Pressure Temperature mass S H V Cp formula
+1000.00 1010.00 4.095858 41.500534 -47416.293396 23.581785 12.704844 H2O
+
+Title:  LP06
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 liquid_2 water 
+1000.00 1010.00 100.000001 54.909867 1.982879 39.011398 4.095858 
+
+Title:  LP06
+
+Phase Volumes:
+Pressure Temperature mass V liquid_0 liquid_1 liquid_2 water 
+1000.00 1010.00 100.000001 59.084781 24.996345 0.692948 9.813703 23.581785 
+
+Title:  LP06
+
+Solid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 4.095858 -1.18068e-12 1.35359e-14 -1.72735e-14 -1.08215e-13 2.43434e-13 2.78244e-13 5.84432e-13 8.95782e-14 -7.18165e-14 1.22443e-13 100
+Title:  LP06
+
+Bulk Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 100.000001 46.16 2.25 6.34 16.02 15.1 0.52 2.21 1.29 2.7 1.5 5.91

@@ -1,0 +1,5 @@
+Title:  HP12
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1020.00 100.019999 0.9628871882771863 0.644030 283.304595 -1166199.933972 60.692846 -21945.860169 27790.030586 145.197642 -10.058 -10.058 2.463877 0.171814 4.916 1 0.000

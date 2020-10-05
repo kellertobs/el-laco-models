@@ -1,0 +1,14 @@
+Title:  HP13
+
+Pressure 1000.00 Temperature 1010.00 
+Partition 100.000001 
+Bulk 100.000001 
+Liquid 99.542743 
+Solid 0.457258 
+rutile 0.457258 
+Pressure 1000.00 Temperature 1000.00 
+Partition 100.000001 
+Bulk 100.000001 
+Liquid 99.341160 
+Solid 0.658841 
+rutile 0.658841 

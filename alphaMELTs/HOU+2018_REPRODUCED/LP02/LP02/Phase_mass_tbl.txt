@@ -1,0 +1,5 @@
+Title:  LP02
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 water 
+1000.00 1010.00 100.010000 59.624636 40.332303 0.053061 

@@ -1,0 +1,20 @@
+Title:  H2O_5
+Initial Composition: SiO2 57.74
+Initial Composition: TiO2 0.82
+Initial Composition: Al2O3 15.86
+Initial Composition: Fe2O3 3.01
+Initial Composition: FeO 3.31
+Initial Composition: MgO 3.00
+Initial Composition: CaO 5.78
+Initial Composition: Na2O 3.10
+Initial Composition: K2O 2.21
+Initial Composition: P2O5 0.19
+Initial Composition: H2O 5.00
+Initial Temperature: 1050.0
+Initial Pressure: 1250
+Log FO2 Path: none
+Suppress: biotite
+Suppress: amphibole
+Limit coexisting: feldspar 1
+Limit coexisting: orthopyroxene 1
+Limit coexisting: clinopyroxene 1

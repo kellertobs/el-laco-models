@@ -1,0 +1,5 @@
+Title:  LP06
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 liquid_2 water 
+1000.00 1010.00 100.000001 54.909867 1.982879 39.011398 4.095858 

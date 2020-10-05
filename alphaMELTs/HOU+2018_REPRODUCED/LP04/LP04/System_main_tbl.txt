@@ -1,0 +1,5 @@
+Title:  LP04
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1010.00 100.000001 0.9992856655478660 0.989039 247.525868 -1023104.904590 37.520421 -909.043658 5324.390461 135.552380 -7.549 -7.549 2.692829 0.173687 5.030 1 0.000

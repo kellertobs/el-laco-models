@@ -1,0 +1,47 @@
+Title:  LP02_40Fe3
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1010.00 99.990002 0.9992634694786412 0.988652 249.607226 -1018735.542213 37.364743 -917.682832 5384.999730 133.952435 -13.160 -13.160 2.704775 0.173687 4.792 1 0.000
+
+Title:  LP02_40Fe3
+
+Liquid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 99.916356 49.2812 2.392 6.75565 13.6414 18.4154 0.55046 2.2719 1.37115 2.88241 0.500419 1.93798
+Title:  LP02_40Fe3
+
+liquid_0 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 59.599664 160.768142 -785659.389000 26.752302 81.022173 4.792 69.7182 2.23691 11.3063 0.114524 1.40794 0.479385 3.76171 2.1613 4.83199 0.827621 3.15412 37.8
+
+liquid_1 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 40.316692 88.092883 -232223.583164 10.188429 52.701821 -0.669 19.0695 2.62127 0.02852 33.638 43.5573 0.65553 0.069534 0.203073 0.000365707 0.0167192 0.14017 2.6
+
+water thermodynamic data and composition:
+Pressure Temperature mass S H V Cp formula
+1000.00 1010.00 0.073646 0.746202 -852.570049 0.424013 0.228440 H2O
+
+Title:  LP02_40Fe3
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 water 
+1000.00 1010.00 99.990002 59.599664 40.316692 0.073646 
+
+Title:  LP02_40Fe3
+
+Phase Volumes:
+Pressure Temperature mass V liquid_0 liquid_1 water 
+1000.00 1010.00 99.990002 37.364743 26.752302 10.188429 0.424013 
+
+Title:  LP02_40Fe3
+
+Solid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 0.073646 -8.09534e-11 -1.31741e-12 -4.80339e-13 0 -2.70775e-12 -2.89558e-12 -7.88442e-13 3.23006e-12 -8.43205e-12 -4.04616e-12 100
+Title:  LP02_40Fe3
+
+Bulk Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 99.990002 49.2449 2.39024 6.75067 13.6314 18.4018 0.550055 2.27023 1.37014 2.88029 0.50005 2.0102

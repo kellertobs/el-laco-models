@@ -1,0 +1,176 @@
+Title:  SIO2_L
+
+Pressure 1250.00 Temperature 1050.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 95.562311 
+Solid 4.427690 
+orthopyroxene_0 0.785936 
+clinopyroxene_0 3.641754 
+Pressure 1250.00 Temperature 1040.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 93.880477 
+Solid 6.109525 
+orthopyroxene_0 0.789518 
+clinopyroxene_0 5.320006 
+Pressure 1250.00 Temperature 1030.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 92.325712 
+Solid 7.664289 
+orthopyroxene_0 0.800841 
+clinopyroxene_0 6.863448 
+Pressure 1250.00 Temperature 1020.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 90.884824 
+Solid 9.105177 
+orthopyroxene_0 0.819639 
+clinopyroxene_0 8.285539 
+Pressure 1250.00 Temperature 1010.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 89.546543 
+Solid 10.443458 
+orthopyroxene_0 0.845568 
+clinopyroxene_0 9.597890 
+Pressure 1250.00 Temperature 1000.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 87.498671 
+Solid 12.491331 
+orthopyroxene_0 1.160697 
+clinopyroxene_0 10.328687 
+feldspar_0 1.001947 
+Pressure 1250.00 Temperature 990.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 84.777510 
+Solid 15.212491 
+orthopyroxene_0 1.731516 
+clinopyroxene_0 10.503808 
+feldspar_0 2.977167 
+Pressure 1250.00 Temperature 980.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 82.225660 
+Solid 17.764342 
+orthopyroxene_0 2.252238 
+clinopyroxene_0 10.647957 
+feldspar_0 4.864147 
+Pressure 1250.00 Temperature 970.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 79.821372 
+Solid 20.168629 
+orthopyroxene_0 2.727987 
+clinopyroxene_0 10.768221 
+feldspar_0 6.672421 
+Pressure 1250.00 Temperature 960.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 77.546804 
+Solid 22.443197 
+orthopyroxene_0 3.163231 
+clinopyroxene_0 10.870323 
+feldspar_0 8.409643 
+Pressure 1250.00 Temperature 950.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 73.560777 
+Solid 26.429225 
+orthopyroxene_0 3.907861 
+clinopyroxene_0 10.559285 
+feldspar_0 11.802464 
+water 0.159615 
+Pressure 1250.00 Temperature 940.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 69.393362 
+Solid 30.596639 
+orthopyroxene_0 4.611504 
+clinopyroxene_0 10.234057 
+feldspar_0 15.404058 
+water 0.347020 
+Pressure 1250.00 Temperature 930.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 65.423820 
+Solid 34.566181 
+orthopyroxene_0 5.207411 
+clinopyroxene_0 9.984935 
+feldspar_0 18.844890 
+water 0.528946 
+Pressure 1250.00 Temperature 920.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 61.675903 
+Solid 38.314098 
+orthopyroxene_0 5.704881 
+clinopyroxene_0 9.811492 
+feldspar_0 22.094338 
+water 0.703387 
+Pressure 1250.00 Temperature 910.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 58.175747 
+Solid 41.814254 
+orthopyroxene_0 6.114290 
+clinopyroxene_0 9.708418 
+feldspar_0 25.123286 
+water 0.868259 
+Pressure 1250.00 Temperature 900.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 54.944896 
+Solid 45.045106 
+orthopyroxene_0 6.446961 
+clinopyroxene_0 9.666714 
+feldspar_0 27.909657 
+water 1.021774 
+Pressure 1250.00 Temperature 890.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 51.996023 
+Solid 47.993978 
+orthopyroxene_0 6.714635 
+clinopyroxene_0 9.675251 
+feldspar_0 30.441403 
+water 1.162689 
+Pressure 1250.00 Temperature 880.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 49.331322 
+Solid 50.658679 
+orthopyroxene_0 6.928809 
+clinopyroxene_0 9.722330 
+feldspar_0 32.717131 
+water 1.290409 
+Pressure 1250.00 Temperature 870.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 46.943071 
+Solid 53.046930 
+orthopyroxene_0 7.100116 
+clinopyroxene_0 9.796945 
+feldspar_0 34.744911 
+water 1.404959 
+Pressure 1250.00 Temperature 860.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 44.795483 
+Solid 55.194518 
+orthopyroxene_0 7.237249 
+clinopyroxene_0 9.891594 
+feldspar_0 36.556710 
+water 1.508966 
+Pressure 1250.00 Temperature 850.00 
+Partition 99.990001 
+Bulk 99.990001 
+Liquid 42.880758 
+Solid 57.109243 
+orthopyroxene_0 7.347974 
+clinopyroxene_0 9.997819 
+feldspar_0 38.161341 
+water 1.602110 

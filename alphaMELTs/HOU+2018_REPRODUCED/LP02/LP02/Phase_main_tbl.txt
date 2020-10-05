@@ -1,0 +1,13 @@
+Title:  LP02
+
+liquid_1 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 40.332303 87.493948 -228506.854873 10.151929 53.735609 -0.893 16.794 3.38399 0.0243258 40.6352 38.006 0.694227 0.0773755 0.223535 0.000298352 0.0297138 0.131334 3.2
+
+liquid_0 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 59.624636 160.824011 -791900.934986 26.969048 81.080287 4.911 70.9717 1.71935 11.2708 0.43753 0.43827 0.452837 3.75481 2.12973 4.81324 0.81848 3.19326 64.8
+
+water thermodynamic data and composition:
+Pressure Temperature mass S H V Cp formula
+1000.00 1010.00 0.053061 0.537629 -614.266084 0.305496 0.164588 H2O

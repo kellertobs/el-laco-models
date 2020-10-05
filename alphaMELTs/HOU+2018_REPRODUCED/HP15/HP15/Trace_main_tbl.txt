@@ -1,0 +1,14 @@
+Title:  HP15
+
+Pressure 1000.00 Temperature 1010.00 
+Partition 100.010002 
+Bulk 100.010002 
+Liquid 99.618342 
+Solid 0.391661 
+rutile 0.391661 
+Pressure 1000.00 Temperature 1000.00 
+Partition 100.010002 
+Bulk 100.010002 
+Liquid 99.430527 
+Solid 0.579475 
+rutile 0.579475 

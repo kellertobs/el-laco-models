@@ -1,0 +1,8 @@
+Title:  LP06
+
+Pressure 1000.00 Temperature 1010.00 
+Partition 100.000001 
+Bulk 100.000001 
+Liquid 95.904143 
+Solid 4.095858 
+water 4.095858 

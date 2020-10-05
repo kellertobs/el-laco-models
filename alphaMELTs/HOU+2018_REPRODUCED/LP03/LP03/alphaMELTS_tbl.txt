@@ -1,0 +1,47 @@
+Title:  LP03
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1010.00 100.010001 0.9791253787792076 0.751348 264.286556 -1021791.860370 48.339551 -12415.199145 18060.781264 138.641151 -7.300 -7.300 2.696111 0.173687 4.901 1 0.000
+
+Title:  LP03
+
+Liquid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 97.922330 48.8959 2.37944 6.7094 16.942 15.5327 0.551457 2.29774 1.36843 2.85941 0.510609 1.9529
+Title:  LP03
+
+liquid_0 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 58.181490 156.956060 -772695.410143 26.317874 79.156269 4.901 70.9102 1.67716 11.2757 0.472019 0.407974 0.450992 3.81266 2.14601 4.81232 0.837838 3.19714 66.3
+
+liquid_1 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 39.740840 86.177550 -224928.223583 10.001970 53.009184 -0.906 16.6664 3.40759 0.0242773 41.0544 37.6757 0.698541 0.079858 0.230045 0.000297573 0.0315383 0.13132 3.2
+
+water thermodynamic data and composition:
+Pressure Temperature mass S H V Cp formula
+1000.00 1010.00 2.087671 21.152946 -24168.226644 12.019706 6.475697 H2O
+
+Title:  LP03
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 water 
+1000.00 1010.00 100.010001 58.181490 39.740840 2.087671 
+
+Title:  LP03
+
+Phase Volumes:
+Pressure Temperature mass V liquid_0 liquid_1 water 
+1000.00 1010.00 100.010001 48.339551 26.317874 10.001970 12.019706 
+
+Title:  LP03
+
+Solid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 2.087671 -4.09393e-12 0 -2.03336e-13 1.06155e-13 -1.05072e-12 1.52381e-13 1.5858e-13 -3.59217e-13 -5.00974e-13 -4.9851e-14 100
+Title:  LP03
+
+Bulk Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 100.010001 47.8752 2.32977 6.56934 16.5883 15.2085 0.539946 2.24977 1.33987 2.79972 0.49995 3.9996

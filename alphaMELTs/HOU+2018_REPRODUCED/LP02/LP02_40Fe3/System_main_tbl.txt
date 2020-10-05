@@ -1,0 +1,5 @@
+Title:  LP02_40Fe3
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1010.00 99.990002 0.9992634694786412 0.988652 249.607226 -1018735.542213 37.364743 -917.682832 5384.999730 133.952435 -13.160 -13.160 2.704775 0.173687 4.792 1 0.000

@@ -1,0 +1,14 @@
+Title:  HP014
+
+Pressure 1000.00 Temperature 1010.00 
+Partition 100.010002 
+Bulk 100.010002 
+Liquid 99.564282 
+Solid 0.445720 
+rutile 0.445720 
+Pressure 1000.00 Temperature 1000.00 
+Partition 100.010002 
+Bulk 100.010002 
+Liquid 99.367484 
+Solid 0.642517 
+rutile 0.642517 

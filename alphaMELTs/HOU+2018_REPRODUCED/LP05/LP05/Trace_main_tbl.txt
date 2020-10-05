@@ -1,0 +1,8 @@
+Title:  LP04
+
+Pressure 1000.00 Temperature 1010.00 
+Partition 100.000002 
+Bulk 100.000002 
+Liquid 97.901438 
+Solid 2.098564 
+water 2.098564 

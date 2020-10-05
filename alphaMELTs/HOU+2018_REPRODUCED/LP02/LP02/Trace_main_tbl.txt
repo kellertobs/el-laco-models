@@ -1,0 +1,8 @@
+Title:  LP02
+
+Pressure 1000.00 Temperature 1010.00 
+Partition 100.010000 
+Bulk 100.010000 
+Liquid 99.956939 
+Solid 0.053061 
+water 0.053061 

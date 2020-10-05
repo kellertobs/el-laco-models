@@ -1,0 +1,47 @@
+Title:  HP01
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1020.00 100.000001 1.0000000000000000 1.000000 237.043714 -1161627.388479 38.300850 -290.827631 2121.677801 131.621179 -10.041 -10.041 2.610908 0.000000 8.071 3.70222e-05 0.000
+
+Title:  HP01
+
+Liquid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1020.00 100.000001 61.29 1.37 9.16 8.56 10 0.66 1.99 1.87 3.92 1.17 0.01
+Title:  HP01
+
+liquid_1 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1020.00 1.626871 3.404509 -20106.322709 0.562334 3.012983 -2.609 1.47752 0.247728 0.0341322 0.225569 0.000804204 1.81922 52.163 0.000116457 0.0305162 43.9997 0.00169076 100.0
+
+liquid_0 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1020.00 75.359144 183.586007 -1010409.815604 31.942782 98.285123 8.071 75.6176 1.30635 12.1446 0.158864 0.532236 0.550513 1.50133 2.37947 5.20103 0.595022 0.0130001 64.8
+
+liquid_2 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1020.00 23.013986 50.053198 -131111.250166 5.795734 30.323073 -0.732 18.6026 1.65775 0.0320846 36.6586 41.709 0.93657 0.0433982 0.333919 0.00023263 0.025108 0.000763674 3.8
+
+Title:  HP01
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 liquid_2 
+1000.00 1020.00 100.000001 75.359144 1.626871 23.013986 
+
+Title:  HP01
+
+Phase Volumes:
+Pressure Temperature mass V liquid_0 liquid_1 liquid_2 
+1000.00 1020.00 100.000001 38.300850 31.942782 0.562334 5.795734 
+
+Title:  HP01
+
+Solid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1020.00 0.000000 ---
+Title:  HP01
+
+Bulk Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1020.00 100.000001 61.29 1.37 9.16 8.56 10 0.66 1.99 1.87 3.92 1.17 0.01

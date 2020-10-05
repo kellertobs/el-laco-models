@@ -1,0 +1,20 @@
+Title:  ONELIQ
+Initial Composition: SiO2 58.95
+Initial Composition: TiO2 0.84
+Initial Composition: Al2O3 16.19
+Initial Composition: Fe2O3 3.07
+Initial Composition: FeO 3.38
+Initial Composition: MgO 3.06
+Initial Composition: CaO 5.90
+Initial Composition: Na2O 3.16
+Initial Composition: K2O 2.26
+Initial Composition: P2O5 0.20
+Initial Composition: H2O 3.00
+Initial Temperature: 1050.0
+Initial Pressure: 1250
+Log FO2 Path: none
+Suppress: biotite
+Suppress: amphibole
+Limit coexisting: feldspar 1
+Limit coexisting: orthopyroxene 1
+Limit coexisting: clinopyroxene 1

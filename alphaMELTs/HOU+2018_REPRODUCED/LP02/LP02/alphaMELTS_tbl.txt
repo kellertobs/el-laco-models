@@ -1,0 +1,47 @@
+Title:  LP02
+
+System Thermodynamic Data:
+Pressure Temperature mass F phi S H V dVdP*10^6 dVdT*10^6 Cp logfO2(absolute) logfO2(absolute) rhol rhos viscosity aH2O chisqr
+1000.00 1010.00 100.010000 0.9994694450610526 0.991837 248.855588 -1021022.055943 37.426473 -810.391895 5347.582442 134.980484 -7.620 -7.620 2.692735 0.173687 4.911 1 0.000
+
+Title:  LP02
+
+Liquid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 99.956939 49.1111 2.39103 6.7329 16.6572 15.5967 0.550237 2.27098 1.36059 2.87124 0.500215 1.95778
+Title:  LP02
+
+liquid_1 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 40.332303 87.493948 -228506.854873 10.151929 53.735609 -0.893 16.794 3.38399 0.0243258 40.6352 38.006 0.694227 0.0773755 0.223535 0.000298352 0.0297138 0.131334 3.2
+
+liquid_0 thermodynamic data and composition:
+Pressure Temperature mass S H V Cp viscosity SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O Mg#
+1000.00 1010.00 59.624636 160.824011 -791900.934986 26.969048 81.080287 4.911 70.9717 1.71935 11.2708 0.43753 0.43827 0.452837 3.75481 2.12973 4.81324 0.81848 3.19326 64.8
+
+water thermodynamic data and composition:
+Pressure Temperature mass S H V Cp formula
+1000.00 1010.00 0.053061 0.537629 -614.266084 0.305496 0.164588 H2O
+
+Title:  LP02
+
+Phase Masses:
+Pressure Temperature mass liquid_0 liquid_1 water 
+1000.00 1010.00 100.010000 59.624636 40.332303 0.053061 
+
+Title:  LP02
+
+Phase Volumes:
+Pressure Temperature mass V liquid_0 liquid_1 water 
+1000.00 1010.00 100.010000 37.426473 26.969048 10.151929 0.305496 
+
+Title:  LP02
+
+Solid Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 0.053061 -8.25015e-11 -5.22428e-13 6.66687e-13 0 -1.87911e-11 1.70639e-11 -8.42796e-12 -8.07981e-12 -7.39153e-12 -1.96501e-12 100
+Title:  LP02
+
+Bulk Composition:
+Pressure Temperature mass SiO2 TiO2 Al2O3 Fe2O3 FeO MgO CaO Na2O K2O P2O5 H2O 
+1000.00 1010.00 100.010000 49.0851 2.38976 6.72933 16.6483 15.5884 0.549945 2.26977 1.35986 2.86971 0.49995 2.0098
