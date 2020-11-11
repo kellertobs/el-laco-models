@@ -19,7 +19,7 @@ for i = 1:length(TT)
     CTX.IO.nwrite     =  50;
     
     % choose number of elements per grid axis
-    N                 =  400;
+    N                 =  100;
 
     % set run identifier and create directory to store output files (see README
     % file for full list of runIDs for all preset parameter tests
