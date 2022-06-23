@@ -1,13 +1,14 @@
-
+% routine to perform scaling analysis for phase separation of Fe-rich melt
+% from three-phase magma/mush of silicate crystals + Si-rich melt + Fe-rich melt
 clear variables; close all;
 
 % set directory paths
-addpath('/Users/tokeller/Documents/Software/ternplot/');
+addpath('./ternplot/');
 workdir = pwd;
 figsdir = pwd;
 
 % set printing options
-figname   = 'ScalingAnalysis';
+figname   = 'ThreePhaseScalingAnalysis';
 format    = '-dpdf';
 resl      = '-r250';
 rend      = '-opengl';
@@ -72,7 +73,7 @@ phi(phi(:,3)<0,:) = nan;
 g0   = 9.81;                 % gravity in vertical and horizontal direction
 rho0 = [2700, 2400, 4000];   % pure-phase densities
 eta0 = [1e+16,1e+5,1];       % pure-phase viscosities
-d0   = [1e-3 ,1e-3,1e-3];    % characteristic size of local-scale phase constituents
+d0   = [1e-3,1e-3,1e-3];     % characteristic size of local-scale phase constituents
 
 kv   = eta0;           % set momentum diffusivity
 kf   = d0.^2./eta0;    % set volume diffusivity
@@ -127,10 +128,8 @@ Cseg = phi.^2./Cvi;
 
 % get phase compaction coefficients
 Ccmp = phi.^2./Cfi;
-    
-deltals = sqrt(Cseg(:,2).*Ccmp(:,1));
-deltasl = sqrt(Cseg(:,1).*Ccmp(:,2));
 
+% get characteristic speed scales
 Drho0   = abs(rho0 - sum(phi.*rho0,2));
 l0      = 1;
 us0     = Cseg.*Drho0.*g0;                      % segregation speed
@@ -140,7 +139,6 @@ uc0     = 0.01.*Drho0.*9.81.*l0^2./sum(Kvi,2);  % convective speed
 delta1  =  sqrt(Cseg(:,1) .* Ccmp);
 delta2  =  sqrt(Cseg(:,2) .* Ccmp);
 delta3  =  sqrt(Cseg(:,3) .* Ccmp);
-
 
 % prepare for plotting ternary plots
 m        = 5;
@@ -153,7 +151,6 @@ labels   = num2str(grids(2:end)');
 n        = m-1;
 [X,Y]    = terncoords(phi(:,2),phi(:,3),phi(:,1));
 tri      = simpletri(np);
-
 
 % plot top right panel
 axes(ax(1));
@@ -209,7 +206,6 @@ set(c,'position',cpos,TL{:});
 text(-0.10,1.50,'\textbf{(a)}~magma/mush convection speed',TX{:},FS{[1,4]},UN{[1,2]},HA{[1,2]},VA{[1,3]});
 hold off; drawnow;
 
-
 % plot bottom left panel
 axes(ax(2));
 
@@ -264,7 +260,6 @@ set(c,'position',cpos,TL{:});
 text(-0.10,1.5,'\textbf{(b)}~Fe-rich melt segregation speed',TX{:},FS{[1,4]},UN{[1,2]},HA{[1,2]},VA{[1,3]});
 hold off; drawnow;
 
-
 % plot bottom right panel
 axes(ax(3));
 
@@ -318,7 +313,6 @@ cpos = get(c,'position'); cpos(1) = axl+2*axw+2*ahs; cpos(2) = axb-0.15*avs; cpo
 set(c,'position',cpos,TL{:});
 text(-0.10,1.5,'\textbf{(c)}~segregation length scale',TX{:},FS{[1,4]},UN{[1,2]},HA{[1,2]},VA{[1,3]});
 hold off; drawnow;
-
 
 % print figure
 if printfig
