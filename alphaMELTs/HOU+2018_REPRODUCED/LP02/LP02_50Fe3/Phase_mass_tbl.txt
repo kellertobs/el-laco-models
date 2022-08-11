@@ -1,5 +1,0 @@
-Title:  LP02_50Fe3
-
-Phase Masses:
-Pressure Temperature mass liquid_0 liquid_1 water 
-1000.00 1010.00 100.009999 59.683725 40.277358 0.048916 
