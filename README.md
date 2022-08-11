@@ -1,6 +1,8 @@
 # el-laco-models
 Materials to reproduce thermodynamic and mechanical models and scaling analyses in the manuscript "A genetic model of the magnetite-apatite deposits on El1
-Laco volcano by extrusion of iron-rich melt" by Keller et al., in review __Nature Comms__.
+Laco volcano by extrusion of iron-rich melt" by Keller et al., __Nature Communications__, 2022.
+
+[![DOI](https://zenodo.org/badge/301470970.svg)](https://zenodo.org/badge/latestdoi/301470970)
 
 ## Thermodynamic model: `/MeltImmiscibility`
 Results were produced with alphaMELTS v.1.9 (available at https://magmasource.caltech.edu/alphamelts/). All models including liquid immiscibility were run as isobaric crystallisation sequences with the general parameters listed in "isobaric_immisc_xtaln.txt". The alternative model with only one liquid phase allowed was run with the parameters in "isobaric_oneliq_xtaln.txt".
